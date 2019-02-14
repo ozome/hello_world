@@ -1,3 +1,2 @@
 # hello_world
-mon premier référenciel
-test
+echo'salut les pauvre nazes!';

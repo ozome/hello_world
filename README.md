@@ -1,3 +1,3 @@
 # hello_world
 mon premier référenciel
-bonjour
+printf('hello')
